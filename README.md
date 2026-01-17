@@ -55,5 +55,3 @@
 <br clear="both">
 
 <p align="left">• Building clean and functional web interfaces.<br><br>• Developing frontend logic and providing support for backend services.<br><br>• Integrating data through REST APIs.<br><br>• Validating features through manual functional testing.<br><br>• Participating in agile workflows focused on continuous value delivery.</p>
-
-###
