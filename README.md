@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<p align="left">• Construcción de interfaces web limpias y funcionales.<br><br>• Desarrollo de lógica frontend y soporte a servicios backend.<br><br>• Integración de datos mediante APIs REST.<br><br>• Validación de funcionalidades mediante testing funcional manual.<br><br>• Participación en flujos ágiles enfocados en entrega continua de valor.</p>
+<p align="left">• Building clean and functional web interfaces.<br><br>• Developing frontend logic and providing support for backend services.<br><br>• Integrating data through REST APIs.<br><br>• Validating features through manual functional testing.<br><br>• Participating in agile workflows focused on continuous value delivery.</p>
 
 ###
